@@ -2,9 +2,9 @@
 
 #Project List
 
-Project Name	Description	Tools used
+Project Name	Description	Tools used:
 
-Project API	Tested a web application for functionality and usability.	Postman, TestRail.
+Project API	Tested a web application for functionality and usability-	Postman, TestRail.
 
 Getting Started
 
@@ -18,17 +18,14 @@ License
 
 This project is licensed under the MIT License - see the LICENSE file for details. You can copy and paste this code into a Markdown file and modify the text as needed.
 
-Templates
-Test Plan
-Test Cases
-Bug Report
-RTM
-Test Reports
-Test Metrics
 Project API
+
 Test Plan
+
 Test Cases
+
 Bug Report
+
 RTM
 Test Reports
 Test Metrics
