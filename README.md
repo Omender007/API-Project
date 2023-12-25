@@ -4,7 +4,7 @@
 
 Project Name	Description	Tools used
 
-Project API	Tested a web application for functionality and usability.	JIRA, Selenium, TestRail
+Project API	Tested a web application for functionality and usability.	Postman, TestRail
 
 Getting Started
 
